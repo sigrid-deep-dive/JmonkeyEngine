@@ -46,3 +46,5 @@ Read our [contribution guide](https://github.com/jMonkeyEngine/jmonkeyengine/blo
 ### License
 
 New BSD (3-clause) License. In other words, you do whatever makes you happy!
+
+.
