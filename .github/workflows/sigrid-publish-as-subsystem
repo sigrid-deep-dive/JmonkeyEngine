@@ -1,4 +1,4 @@
-name: sigrid-publish
+name: sigrid-publish-as-subsystem
 on:
   push:
     branches:
